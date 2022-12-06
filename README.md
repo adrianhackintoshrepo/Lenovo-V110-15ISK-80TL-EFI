@@ -1,7 +1,7 @@
  
-# Lenovo V110-15ISK 80TL Hackintosh OpenCore macOS Ventura
+# Lenovo V110-15ISK 80TL Hackintosh OpenCore macOS Big Sur
 
-EFI folder to run macOS Ventura version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
+EFI folder to run macOS Big Sur on the Lenovo V110-15ISK Laptop using OpenCore as bootloader.
 
 ### REMEMBER TO USE YOUR OWN SERIAL NUMBER
 https://github.com/corpnewt/GenSMBIOS <- GET YOURS HERE
