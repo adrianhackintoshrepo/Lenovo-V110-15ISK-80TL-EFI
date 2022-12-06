@@ -1,5 +1,5 @@
  
-# Lenovo V110-15ISK 80TL Hackintosh OpenCore macOS Ventura
+# Lenovo V110-15ISK 80TL Hackintosh OpenCore macOS Monterey
 
 EFI folder to run macOS Ventura version on Lenovo V110-15ISK Laptop using OpenCore as bootloader.
 
